@@ -13,6 +13,7 @@
     "nanoid": "^4.0.1"
   },
   "ampt": {
-    "app": "ampt-api"
+    "app": "ampt-api-first-example",
+    "org": "chitrung09t2185998"
   }
 }
